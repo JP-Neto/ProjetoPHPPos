@@ -1,2 +1,2 @@
 # ProjetoPHPPos
-Projeto em PhP 
+Projeto em PhP - Professor Thyago Maia
